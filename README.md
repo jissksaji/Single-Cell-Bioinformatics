@@ -64,6 +64,16 @@ library(CellChat)      # Cell-cell communication analysis
 
 ---
 
+## ▶ Running the Spatial Analysis Script
+
+Run the `spatial_seurat.R` script to process and visualize spatial transcriptomics data:
+
+```bash
+Rscript spatial_seurat.R
+```
+
+---
+
 ## 📊 Overview of the Analysis Pipeline
 
 1. **Preprocessing**: Load and normalize single-cell RNA-seq data.
